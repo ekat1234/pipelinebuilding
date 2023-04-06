@@ -1,1 +1,2 @@
 # pipelinebuilding
+{ echo {'hello'} }
